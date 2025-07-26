@@ -1,7 +1,4 @@
 # GoPWNIt - CTF as a Service & Cybersecurity Learning Platform
-
-![GoPWNIt Banner](https://your-image-url.com/banner.png) <!-- Optional: Replace with your banner image -->
-
 ---
 
 ## 🛡️ Overview
